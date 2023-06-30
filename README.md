@@ -12,10 +12,7 @@
 
 
 
- 
-DEMO: (https://comnsense.github.io/Web-Design-Final/index#)
-
-https://github.com/comnsense/lame-games/tree/main/Helloween
-
+DEMO : https://comnsense.github.io/Web-Design-Final/index#
+SOURCE: https://github.com/comnsense/Web-Design-Final/
  
 ![scrennshot1](https://github.com/comnsense/Web-Design-Final/assets/111774303/fb464e4c-a91f-4b3b-b03e-1b5a995c7482)
